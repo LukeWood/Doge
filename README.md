@@ -14,12 +14,9 @@ This is an example of how to produce graphics without backgrounds in a cross pla
 WOW Such Backgroundless!
 </h1>
 
-<kbd>
 <p align="center">
-  <img src="rsc/DocePic.png">
- </p>
 ![Image of Doge](rsc/DogePic.PNG)
-</kbd>
+</p>
 <h1 align="center">
 WOW!
 </h1>
