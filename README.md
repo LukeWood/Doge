@@ -15,6 +15,9 @@ WOW Such Backgroundless!
 </h1>
 
 <kbd>
+<p align="center">
+  <img src="rsc/DocePic.png">
+ </p>
 ![Image of Doge](rsc/DogePic.PNG)
 </kbd>
 <h1 align="center">
