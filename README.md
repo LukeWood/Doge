@@ -10,7 +10,9 @@
 
 This is an example of how to produce graphics without backgrounds in a cross platform method.
 
-Notice how there is no background behind the doge:
+<h1 align="center">
+WOW Such Backgroundless!
+</h1>
 
 <kbd>
 ![Image of Doge](rsc/DogePic.PNG)
