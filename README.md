@@ -8,5 +8,5 @@ This is an example of how to produce graphics without backgrounds in a cross pla
 
 Notice how there is no background behind the doge.
 
-![Image of Doge](https://raw.githubusercontent.com/lukewoodsmu/Doge/master/rsc/DogePic.png)
+![Image of Doge](rsc/DogePic.PNG)
 
