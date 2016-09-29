@@ -1,14 +1,19 @@
 # Doge
 **D**oge
+
 **O**nly 
+
 **G**raphics 
+
 **E**nabled
+
 
 <p align="center">
 This is an example of how to produce graphics without backgrounds in a cross platform method.
+</p>
 
-Notice how there is no background behind the doge
-
+<p align="center">
+Notice how there is no background behind the doge:
 </p>
 
 <kbd>
