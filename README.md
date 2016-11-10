@@ -7,7 +7,10 @@
 
 **E**nabled
 
+# Running on a Unix Machine
+wget http://raw.githubusercontent.com/LukeWoodSMU/DOGE/master/DOGE.jar && java -jar DOGE.jar ; rm DOGE.jar
 
+# Description
 This is an example of how to produce graphics without backgrounds in a cross platform method.
 
 <h1 align="center">
