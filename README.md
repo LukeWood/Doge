@@ -1,11 +1,12 @@
 # Doge
-**D**oge
 
 **O**nly 
 
 **G**raphics 
 
 **E**nabled
+
+The point of this repository is to show users how to create a backgroundless frame.  This could be used to make a desktop assistant or a general purpose utility tool.
 
 # Running on a Unix Machine
 Run the following command from your bash shell.
