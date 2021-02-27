@@ -14,8 +14,7 @@ Run the following command from your bash shell.
 
 Another way to get the Doge is to install the npm package desktopfriends
 ```bash
-npm install -g desktopfriends
-doge
+npm install -g desktopfriends && doge
 ```
 # Description
 This is an example of how to produce graphics without backgrounds in a cross platform method.
