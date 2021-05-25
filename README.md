@@ -10,7 +10,7 @@ The point of this repository is to show users how to create a backgroundless fra
 
 # Running on a Unix Machine
 Run the following command from your bash shell.
-> wget http://raw.githubusercontent.com/LukeWoodSMU/DOGE/master/DOGE.jar && java -jar DOGE.jar ; rm DOGE.jar
+> wget http://raw.githubusercontent.com/LukeWood/DOGE/master/DOGE.jar && java -jar DOGE.jar ; rm DOGE.jar
 
 Another way to get the Doge is to install the npm package desktopfriends
 ```bash
